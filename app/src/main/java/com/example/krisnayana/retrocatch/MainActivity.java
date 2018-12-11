@@ -30,5 +30,6 @@ public class MainActivity extends AppCompatActivity {
         ourCanvas.drawPoint(10, 260, paint);
 
         ourFrame.setImageBitmap(ourBitmap);
+        //Test
     }
 }
